@@ -1,0 +1,8 @@
+1. git init
+2. git add -A
+3. git commit -m "message"
+4. git remote add origin git@github.com:shruti-pandit/testinggit.git
+5. git push origin main
+
+apan ko ye steps krni rhti in general.
+bich me jab edits krenge to aur files add krte jaenge and commit krte jaenge
